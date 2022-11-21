@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    {% block head %}
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/novostyle.css">
+</head>
+
+{% endblock head %}
+<body>
+    {% block nav %}
+    <nav>
+        <ul>
+            <li><a href="/" target="_self">SOBRE</a></li>
+            <li><a href="/projetos" target="_self">PROJETOS</a></li>
+            <li><a href="/mais" target="_self">MAIS</a></li>
+        </ul>
+    </nav>
+    {% endblock %}
+
+    {% block contents %}
+
+    {% endblock contents %}
+
+
+</body>
+</html>
