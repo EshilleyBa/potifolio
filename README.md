@@ -6,9 +6,18 @@ Para utilizar o projeto é necessário ter instalado previamente em sua máquina
 Por meio do terminal, clone o repositório utilizando o comando "git clone https://github.com/EshilleyBa/potifolio.git". 
 
 ### CRIANDO AMBIENTE VIRTUAL (opcional)
-no terminal de sua máquina escreva os seguintes comandos:
-py-3 -m venv venv
-python –m venv venv, ative o ambiente virtual com o comando "venv\Scripts\activate
+no terminal de sua máquina escreva o seguinte comando:
+
+
+python –m venv venv
+
+
+Ative o ambiente virtual com o comando 
+
+
+venv\Scripts\activate
+
+
 No editor de código, abra a pasta do projeto clonado e atráves do terminal, instale o flask com o comando "pip install flask". 
 Para iniciar o projeto.
 
