@@ -175,8 +175,10 @@ margin-bottom:1%}
     margin-bottom: 5px;}
 
 @media screen and (max-width: 620px) {
+
+
 .justify1{
-   margin-top: 10%;
+   margin-top: 20%;
   margin-left:auto;
   margin-right:auto;
     width: 70%;}
@@ -216,7 +218,7 @@ margin-bottom:1%}
 /*projetos.html*/
 
 .projetosjustify1{
-  margin-top: 10%;
+  margin-top: 20%;
 margin-left:auto;
 margin-right:auto;
   width: 60%;
@@ -268,7 +270,7 @@ display:flex;
 
 
 .maisjustify1{
-  margin-top: 10%;
+  margin-top: 20%;
 margin-left:auto;
 margin-right:auto;
   width: 70%;
